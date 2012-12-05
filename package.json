@@ -1,0 +1,16 @@
+{
+  "description": "db-rest-test",
+  "version": "0.0.0",
+  "dependencies": {
+    "express":"3.x",
+	"mongoose": "3.4.x"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "name": "db-rest-test"
+}
